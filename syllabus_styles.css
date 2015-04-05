@@ -1,7 +1,7 @@
-.quotation{font-style: italic}
-.important{text-decoration: underline}
-.smaller{font-size: 19px}
+.quotation{font-style: italic;}
+.important{text-decoration: underline;}
+.smaller{font-size: 19px;}
 .dark{font-weight: bold;}
-.half{line-height: 2}
+.half{margin-top: 20px;}
 td {border: thin red solid;}
 th {border: thin blue solid;}
